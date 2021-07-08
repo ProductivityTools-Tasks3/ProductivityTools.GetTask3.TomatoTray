@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductivityTools.GetTask3.TomatoTray", "ProductivityTools.GetTask3.TomatoTray\ProductivityTools.GetTask3.TomatoTray.csproj", "{3A7CE1A7-AF31-4EE9-9D9C-58593E338D57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A7CE1A7-AF31-4EE9-9D9C-58593E338D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7CE1A7-AF31-4EE9-9D9C-58593E338D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7CE1A7-AF31-4EE9-9D9C-58593E338D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7CE1A7-AF31-4EE9-9D9C-58593E338D57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3FAF1A7-EA1F-43F4-9421-C429009C24BB}
+	EndGlobalSection
+EndGlobal
